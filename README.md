@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm GabryOsas</h1>
-<h3 align="center">I am an developer.</h3>
+## Programming languages know:
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Java+Medium;Skript+Medium;Python+Base;HTML5+Base;+CSS+Base)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on [FiftyRP](https://t.me/FiftyRP)
 
-- 🌱 I’m currently learning **Java and Python**
+- 🌱 I’m currently learning **Java and P
+- ython**
 
 - 👯 I’m looking to collaborate on [ColosseumNetWork](https://t.me/ColosseumNetworkAnnunci)
 
