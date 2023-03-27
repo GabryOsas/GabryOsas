@@ -15,6 +15,14 @@
 <a href="https://t.me/GabryOsas" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="me.gabryosas" height="30" width="40" /></a>
 <a href="https://discord.gg/JFKPzq7yDa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="me.gabryosas" height="30" width="40" /></a>
 </p>
+<h3 align="left">IDE i use:</h3>
+<p align="left">
+<a href="https://www.jetbrains.com/idea/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="me.gabryosas" height="30" width="40" /></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="me.gabryosas" height="30" width="40" /></a>
+<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="me.gabryosas" height="30" width="40" /></a>
+<a href="https://atom.io/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Atom_editor_logo.svg" alt="me.gabryosas" height="30" width="40" /></a>
+<a href="https://notepad-plus-plus.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg" alt="me.gabryosas" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Programming languages i know:</h3>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Java+(Medium);Skript+(Medium);HTML5+(Base);CSS+(Base);JavaScript+(Base)" alt="Typing SVG" /></a>
