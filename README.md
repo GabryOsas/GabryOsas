@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabryosas&label=Profile%20views&color=0e75b6&style=flat" alt="gabryosas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabryosas" alt="gabryosas" /></a> </p>
-
-
 - 🔭 I’m currently working on [FiftyRP](https://t.me/FiftyRP)
 
 - 🌱 I’m currently learning **Java and Python**
