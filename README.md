@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on [ColosseumNetWork](https://t.me/ColosseumNetworkAnnunci)
 
-- 📫 How to reach me [**@GabryOsas**](https://t.me/GabryOsa "My Telegram")
+- 📫 How to reach me [**GabryOsas**](https://t.me/GabryOsa "My Telegram")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
