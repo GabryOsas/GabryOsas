@@ -16,7 +16,4 @@
 <a href="https://discord.gg/GabryOsas#9815" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GabryOsas#9815" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabryosas&show_icons=true&locale=en&layout=compact" alt="gabryosas" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabryosas&show_icons=true&locale=en" alt="gabryosas" /></p>
 
