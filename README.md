@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabryosas" alt="gabryosas" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [FiftyRP](https://t.me/FiftyRP)
 
@@ -13,9 +12,7 @@
 
 - 👯 I’m looking to collaborate on [ColosseumNetWork](https://t.me/ColosseumNetworkAnnunci)
 
-- 📫 How to reach me **@GabryOsas**
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📫 How to reach me [**@GabryOsas**](https://t.me/GabryOsa "My Telegram")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
