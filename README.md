@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm GabryOsas</h1>
 <h3 align="center">I am an developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabryosas&label=Profile%20views&color=0e75b6&style=flat" alt="gabryosas" /> </p>
 
 - 🔭 I’m currently working on [FiftyRP](https://t.me/FiftyRP)
 
@@ -24,4 +23,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabryosas&show_icons=true&locale=en" alt="gabryosas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabryosas&" alt="gabryosas" /></p>
