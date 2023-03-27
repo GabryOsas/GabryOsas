@@ -14,8 +14,6 @@
 - 👯 I’m looking to collaborate on [ColosseumNetWork](https://t.me/ColosseumNetworkAnnunci)
 
 - 📫 How to reach me **@GabryOsas**
-
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
