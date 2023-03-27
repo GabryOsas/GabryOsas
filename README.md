@@ -17,5 +17,5 @@
 </p>
 
 <h3 align="left">Programming languages i know:</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Java+(Medium);Skript+(Medium);HTML5+(Base);CSS+(Base);JavaScript+(Base)" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Java+(Medium);Skript+(Medium);HTML5+(Base);CSS+(Base);JavaScript+(Base)" alt="Typing SVG" /></a>
 
