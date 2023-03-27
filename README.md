@@ -4,6 +4,6 @@
 # My personal project
 + [FiftyRP](https://t.me/FiftyRP "My Roleplay Server")
 + [GMDIDevelopment](https://t.me/GMDIdevelopment "Developer Team")
-+ [GabryOsasCommunity] **ABANDONED**
++ GabryOsasCommunity **ABANDONED**
 + [Ci sono aggiornamenti](https://sites.google.com/view/ci-sono-aggiornamenti/home-page/giochi-consigliati "Site of videogame news") **ABANDONED**
 
