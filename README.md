@@ -14,6 +14,7 @@
 <p align="left">
 <a href="https://t.me/GabryOsas" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="me.gabryosas" height="30" width="40" /></a>
 <a href="https://discord.gg/JFKPzq7yDa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="me.gabryosas" height="30" width="40" /></a>
+<a href="https://github.com/GabryOsas" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="me.gabryosas" height="30" width="40" /></a>
 </p>
 <h3 align="left">IDE i use:</h3>
 <p align="left">
