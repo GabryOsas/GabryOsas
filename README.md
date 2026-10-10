@@ -1,30 +1,27 @@
-<h1 align="center">Hi 👋, I'm GabryOsas</h1>
-<h3 align="center">I am an developer.</h3>
+### Hi, I'm Gabriele (GabryOsas)
 
+18, from Italy. Final year of Computer Science and Telecommunications in high school.
 
-- 🔭 I’m currently working on [FiftyRP](https://t.me/FiftyRP)
+Most of what I build is for Minecraft servers. Under the name **GMDI Development** I make Paper/Purpur plugins in Java
+and 3D models, textures and resource packs in Blockbench. Outside Minecraft I write small tools and school projects
+in Java, C++ and Python.
 
-- 🌱 I’m currently learning **Java and Python**
+**Right now**
 
-- 👯 I’m looking to collaborate on [ColosseumNetWork](https://t.me/ColosseumNetworkAnnunci)
+- Plugins: a live camera / streaming system for servers, a shop shelf with hover tooltips and a claw machine,
+  plus a shared library they're built on. These repos are private.
+- Models: road signs, a construction kit, a metro, roleplay packs (police, fire station, bank, EMS) and vehicles
+  with ModelEngine animations.
+- [Wifora](https://github.com/GabryOsas/Wifora): streams your PC's audio to phones on the same Wi-Fi, no app needed.
 
-- 📫 How to reach me [**GabryOsas**](https://t.me/GabryOsa "My Telegram")
+**Public repos worth a look**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://t.me/GabryOsas" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="me.gabryosas" height="30" width="40" /></a>
-<a href="https://discord.gg/JFKPzq7yDa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="me.gabryosas" height="30" width="40" /></a>
-<a href="https://github.com/GabryOsas" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="me.gabryosas" height="30" width="40" /></a>
-</p>
-<h3 align="left">IDE i use:</h3>
-<p align="left">
-<a href="https://www.jetbrains.com/idea/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="me.gabryosas" height="30" width="40" /></a>
-  <a href="https://www.jetbrains.com/pycharm/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="me.gabryosas" height="30" width="40" /></a>
-<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="me.gabryosas" height="30" width="40" /></a>
-<a href="https://atom.io/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Atom_editor_logo.svg" alt="me.gabryosas" height="30" width="40" /></a>
-<a href="https://notepad-plus-plus.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg" alt="me.gabryosas" height="30" width="40" /></a>
-</p>
+- [GMDIDevelopment-Release](https://github.com/GabryOsas/GMDIDevelopment-Release): Minecraft model releases
+- [Capolavoro-Project](https://github.com/GabryOsas/Capolavoro-Project): my school final project, a Java quiz app on civic education (still in progress)
+- [Java-2D-Game](https://github.com/GabryOsas/Java-2D-Game): a small 2D game in plain Java
 
-<h3 align="left">Programming languages i know:</h3>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Java+(Medium);Skript+(Medium);Python+(Base);HTML5+(Base);CSS+(Base);JavaScript+(Base)" alt="Typing SVG" /></a>
+**Links**
 
+- Studio: [gmdidevelopment.store](https://gmdidevelopment.store) · Telegram channel [@GMDIdevelopment](https://t.me/GMDIdevelopment)
+- Portfolio: [gabryosas.github.io](https://gabryosas.github.io)
+- Contact: Telegram [@GabryOsas](https://t.me/GabryOsas) · Discord `GabryOsas`
